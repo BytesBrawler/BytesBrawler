@@ -1,4 +1,4 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://github.com/BytesBrawler)
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](mohammedimran.in)
 
 <h1 align="center">Hi 👋, I'm Mohammed Imran</h1>
 <h3 align="center">A passionate developer from India</h3>
