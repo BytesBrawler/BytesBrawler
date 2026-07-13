@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bytesbrawler&" alt="bytesbrawler" /></p>
 
-Co-founded by <a href="https://www.mohammedimran.in">Mohammed Imran</a>
+Co-founded  <a href="https://www.moderntechcreations.in">Modern Tech Creations</a>
